@@ -1,0 +1,28 @@
+# Visual Studio local state
+.vs/
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+
+# Build outputs
+x64/
+Debug/
+Release/
+gddll/
+*.obj
+*.pch
+*.pdb
+*.ilk
+*.ipdb
+*.iobj
+*.exp
+*.dll
+*.recipe
+*.tlog/
+*.lastbuildstate
+*.Build.CppClean.log
+*.FileListAbsolute.txt
+
+# Runtime/local files
+Strategy/follow_config.json
